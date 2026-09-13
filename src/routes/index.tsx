@@ -9,7 +9,7 @@ import { capabilities, principles, approachSteps, work } from "@/components/site
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Halcyon Works — Build what matters, end to end" },
+      { title: "AKL INFOTECH — Build what matters, end to end" },
       {
         name: "description",
         content:

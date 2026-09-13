@@ -1,4 +1,4 @@
-export const COMPANY = "Halcyon Works";
+export const COMPANY = "AKL GRP";
 
 export type Capability = {
   slug: string;

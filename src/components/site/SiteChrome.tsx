@@ -19,8 +19,8 @@ export function SiteHeader() {
       <ScrollProgress />
       <div className="container-page flex h-16 items-center justify-between gap-4">
         <Link to="/" className="group flex items-center gap-2.5" onClick={() => setOpen(false)}>
-          <span className="grid size-7 place-items-center rounded-md bg-[image:var(--gradient-ember)] text-[13px] font-bold text-primary-foreground">
-            H
+          <span className="grid size-10 place-items-center rounded-md bg-[image:var(--gradient-ember)] text-[13px] font-bold text-primary-foreground">
+            PERO
           </span>
           <span className="font-display text-[15px] font-semibold tracking-tight">{COMPANY}</span>
         </Link>

@@ -8,13 +8,13 @@ import { COMPANY, capabilities } from "@/components/site/content";
 export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
-      { title: "Contact — Halcyon Works" },
+      { title: "Contact — PERO" },
       {
         name: "description",
         content:
           "Tell us about your product, AI, automation, growth, IoT or research challenge and we will reply within two working days.",
       },
-      { property: "og:title", content: "Contact — Halcyon Works" },
+      { property: "og:title", content: "Contact — PERO" },
       {
         property: "og:description",
         content: "Start a conversation with our applied innovation studio.",
